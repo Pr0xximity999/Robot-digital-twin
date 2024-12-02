@@ -1,0 +1,17 @@
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.csproj.GenerateResource.cache
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.AssemblyInfoInputs.cache
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.AssemblyInfo.cs
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.sourcelink.json
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\bin\Debug\net8.0-windows\SimulationScreen.exe
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\bin\Debug\net8.0-windows\SimulationScreen.deps.json
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\bin\Debug\net8.0-windows\SimulationScreen.runtimeconfig.json
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\bin\Debug\net8.0-windows\SimulationScreen.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\bin\Debug\net8.0-windows\SimulationScreen.pdb
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\refint\SimulationScreen.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.pdb
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.genruntimeconfig.cache
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\ref\SimulationScreen.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\Robot-digital-twin\SimulationScreen\obj\Debug\net8.0-windows\SimulationScreen.SimScreen.resources

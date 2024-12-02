@@ -1,0 +1,7 @@
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\SimulationScreen.pdb
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\D3DCompiler_47_cor3.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\PenImc_cor3.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\PresentationNative_cor3.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\vcruntime140_cor3.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\wpfgfx_cor3.dll
+C:\Users\thoma\Documents\.School\Season 2\Robotics-Prototyping\SimulationScreen.exe
